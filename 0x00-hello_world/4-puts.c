@@ -1,11 +1,7 @@
 #include <stdio.h>
 
 /**
-
-* main - Printing
-
-* Return: Always 0 (Successful)
-
+ * main - Printing
 */
 
 int main(void)
