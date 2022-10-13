@@ -1,8 +1,14 @@
 #include <stdio.h>
 
-/*
- * Description: main - Prints out a string to stdout.
- */
+/**
+
+* main - Printing
+
+*
+
+* Return: Always 0 (Successful)
+
+*/
 
 int main(void)
 
