@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-/*
- * Description: main - Prints out a string to stdout.
- */
+// Description: main - Prints out a string to stdout.
+
 
 int main(void)
 
