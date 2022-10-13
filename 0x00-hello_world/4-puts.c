@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * description:
- * main - Printing
+ * description: main - Printing
 */
 
 int main(void)
