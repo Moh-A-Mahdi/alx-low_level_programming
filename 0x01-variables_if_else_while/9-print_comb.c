@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
   * Description: main - Prints a serie of numbers with commas
   * Return: Always (Success);
   */
+
 int main(void)
 {
 int c;
