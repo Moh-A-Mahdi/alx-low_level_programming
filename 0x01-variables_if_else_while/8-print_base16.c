@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
   * Description: main - Prints a hexadecimal string
   * Return: Always (Success)
