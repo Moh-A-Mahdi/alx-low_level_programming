@@ -6,4 +6,4 @@
 
 * 2-largest_number.c : Function prints the largest of three integers.
 
-* 3-print_remaining_days.c : Function determines how many days are left in the year, taking leap year into consideration. _"Using the '3-convert_day.c' function to converts a date to the day of year"._
+* 3-print_remaining_days.c : Function determines how many days are left in the year, taking leap year into consideration. _"                                             Using the '3-convert_day.c' function to converts a date to the day of year"._
