@@ -25,6 +25,9 @@ All of the following files are scripts and programs written in C:
 ------------------
 > * [6-print_numberz.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/6-print_numberz.c)
 > > A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+> > > - _not allowed to use any variable of type char._
+> > > - _only use the putchar function._
+> > > - _can only use putchar twice._
 ------------------
 > * [7-print_tebahpla.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/7-print_tebahpla.c)
 > > A program that prints the lowercase alphabet in reverse, followed by a new line.
