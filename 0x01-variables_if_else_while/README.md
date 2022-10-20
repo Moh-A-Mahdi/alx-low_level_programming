@@ -19,6 +19,7 @@ All of the following files are scripts and programs written in C:
 ------------------
 > * [4-print_alphabt.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/4-print_alphabt.c)
 > > A program that prints the alphabet in lowercase, followed by a new line.
+> > > _Print all the letters except q and e._
 ------------------
 > * [5-print_numbers.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/5-print_numbers.c)
 > > A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
