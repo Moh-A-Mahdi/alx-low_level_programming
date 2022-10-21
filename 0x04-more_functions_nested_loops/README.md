@@ -126,7 +126,7 @@ All of the following files are scripts and programs written in C.
 
 > * [100-prime_factor.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/100-prime_factor.c)
 >
->> A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+>> A program that finds and prints the largest prime factor of the number `612852475143`, followed by a new line.
 >>> _Without using the standard library_.
 ------------------
 
