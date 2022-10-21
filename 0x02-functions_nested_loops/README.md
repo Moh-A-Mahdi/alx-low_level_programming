@@ -1,4 +1,4 @@
-# Functions, nested loops
+# C - Functions, nested loops
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about what are nested loops, functions, prototypes, scope of variables, and header files, compilation process with gcc in **C language**.
 
 ## Files
