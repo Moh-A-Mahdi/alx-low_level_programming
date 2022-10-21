@@ -1,4 +1,5 @@
-# Variables, if, else, while
+# C - Variables, if, else, while
+
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about what are the arithmetic operators, logical operators, basics commands (If else,while) and variables, compilation process with gcc in **C language**.
 
 ## Files
