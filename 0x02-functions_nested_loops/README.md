@@ -77,7 +77,7 @@ All of the following files are scripts and programs written in C.
 >> A function that prints the last digit of a number.
 >>>
 >>> * _Prototype:_ `int print_last_digit(int);`.
->>> * _Returns the value of the last digit.
+>>> * _Returns the value of the last digit_.
 
 ------------------
 
