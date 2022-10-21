@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"/></h1>
+<p align="center">
+  <img width="460" height="300" src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png">
+</p>
 
 # ALX SE - Low Level Programming
 
@@ -24,5 +26,3 @@ Working with this project require you to have some tools installed:
 
 * [GCC : GNU Compiler](https://gcc.gnu.org/)
 * [Betty : C code checker](https://github.com/holbertonschool/Betty)
-
-[1]:https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png
