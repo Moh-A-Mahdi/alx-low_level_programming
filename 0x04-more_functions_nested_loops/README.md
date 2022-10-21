@@ -1,4 +1,4 @@
-# More functions and nested loops
+# C - More functions, more nested loops
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn more about functions and nested loops, compilation process with gcc in **C language**.
 
 ## Files
