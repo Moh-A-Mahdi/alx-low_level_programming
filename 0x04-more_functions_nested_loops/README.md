@@ -1,5 +1,13 @@
 # C - More functions, more nested loops
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn more about functions and nested loops, compilation process with gcc in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn more about
+
+* What are nested loops and how to use them.
+* What is a function and how do you use functions.
+* What is the difference between a declaration and a definition of a function.
+* What is a prototype.
+* Scope of variables.
+* What are the `gcc` flags `-Wall` `-Werror` `-pedantic` `-Wextra` `-std=gnu89`.
+* What are header files and how to to use them with `#include`.
 
 ## Files
 All of the following files are scripts and programs written in C.
