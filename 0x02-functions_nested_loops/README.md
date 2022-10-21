@@ -2,7 +2,7 @@
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about what are nested loops, functions, prototypes, scope of variables, and header files, compilation process with gcc in **C language**.
 
 ## Files
-All of the following files are scripts and programs written in C:
+All of the following files are scripts and programs written in C.
 
 
 > * [main.h](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/main.h)
