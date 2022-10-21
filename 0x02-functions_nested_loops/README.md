@@ -34,7 +34,7 @@ All of the following files are scripts and programs written in C.
 >> A function that prints `10` times the alphabet, in lowercase, followed by a new line.
 >>> _Prototype:_ `void print_alphabet_x10(void);`.
 ------------------
->
+
 > * [3-islower.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/3-islower.c)
 >
 >> A function that checks for lowercase character.
@@ -54,7 +54,7 @@ All of the following files are scripts and programs written in C.
 >>> * _Returns_ `0` _otherwise_.
 
 ------------------
->
+
 > * [5-sign.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/5-sign.c)
 >
 >> A function that prints the sign of a number.
@@ -92,7 +92,7 @@ All of the following files are scripts and programs written in C.
 >> A function that prints the `9` times table, starting with `0`.
 >>> _Prototype:_ `void times_table(void);`.
 ------------------
->
+
 > * [10-add.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/10-add.c)
 >
 >> A function that adds two integers and returns the result.
@@ -119,7 +119,7 @@ All of the following files are scripts and programs written in C.
 >>> * _If `n` is greater than `15` or less than `0` the function will print nothing_.
 
  ------------------
->
+
 > * [101-natural.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/101-natural.c)
 >
 >> A program that computes and prints the sum of all the multiples of `3` or `5` below `1024` (excluded), followed by a new line.
@@ -131,13 +131,13 @@ All of the following files are scripts and programs written in C.
 >> A program that prints the first `50 Fibonacci` numbers, starting with `1` and `2`, followed by a new line.
 >>> _Without using the standard library_.
 ------------------
->
+
 > * [103-fibonacci.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c)
 >
 >> A program that finds and prints the sum of the even-valued terms, followed by a new line.
 >>> _Without using the standard library_.
 ------------------
->
+
 > * [104-fibonacci.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/104-fibonacci.c)
 >
 >> A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
