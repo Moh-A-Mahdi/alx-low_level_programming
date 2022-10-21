@@ -50,7 +50,7 @@ All of the following files are programs written in C.
 >>> * _Without any variable of type char._
 >>> * _Only using the putchar function._
 >>> * _Only using putchar twice._
->>>
+
 ------------------
 
 > * [7-print_tebahpla.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/7-print_tebahpla.c)
