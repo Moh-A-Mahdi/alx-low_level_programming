@@ -1,8 +1,5 @@
 <h1 align="center"><img src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"/></h1>
 
-This is a file with a top-level HTML heading
-![Alt][1]
-
 # ALX SE - Low Level Programming
 
 ## By Mohamed A. Mahdi
