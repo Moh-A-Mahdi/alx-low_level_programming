@@ -1,9 +1,15 @@
 # C - Variables, if, else, while
 
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about what are the arithmetic operators, logical operators, basics commands (If else,while) and variables, compilation process with gcc in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn __about:__
+
+* Arithmetic operators.
+* Logical operators.
+* Relational operators.
+* Basics commands (`If else`,`while`, ... ).
+* Variables.
 
 ## Files
-All of the following files are scripts and programs written in C.
+All of the following files are programs written in C.
 
 
 > * [0-positive_or_negative.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x01-variables_if_else_while/0-positive_or_negative.c)
