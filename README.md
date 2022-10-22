@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png">
+  <img src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png">
 </p>
 
 # ALX SE - Low Level Programming
