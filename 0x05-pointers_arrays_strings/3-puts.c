@@ -1,18 +1,13 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * _puts - prints the string  
+ * _puts - prints a string
  * @str: the string to be printed
  */
 
 void _puts(char *str)
 {
 	while (*str)
-	{
-		printf("%c",*str);
-		*str++; 
-	}
-	
-	printf("\n");
+		_putchar(*str++);
+	_putchar('\n');
 }
