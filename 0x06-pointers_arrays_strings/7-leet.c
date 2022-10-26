@@ -5,31 +5,22 @@
  * @str: The string to be encoded.
  * Return: A pointer to the encoded string.
  */
-
-char *leet(char *s)
+char *leet(char *str)
 {
-	int index;
-	int tmp;
-	int tmp_2;
+	int indx1 = 0, indx2;
+	char leet[8] = {'O', 'L', '?', 'E', 'A', '?', '?', 'T'};
 
-	char leet[] = "oOlLeEaAtT";
-	char rep[] = "0011334477";
-
-	index = 0;
-	while (s[index] != '\0')
+	while (str[indx1])
 	{
-		tmp = 0;
-		tmp_2 = 0;
-		while (leet[tmp] != '\0')
+		for (indx2 = 0; indx2 <= 7; indx2++)
 		{
-			if (s[index] == leet[tmp])
-			{
-				tmp_2 = tmp;
-				s[index] = rep[tmp_2];
-			}
-			tmp++;
+			if (str[indx1] == leet[indx2] ||
+			    str[indx1] - 32 == leet[indx2])
+				str[indx1] = indx2 + '0';
 		}
-		index++;
+
+		indx1++;
 	}
-	return (s);
+
+	return (str);
 }
