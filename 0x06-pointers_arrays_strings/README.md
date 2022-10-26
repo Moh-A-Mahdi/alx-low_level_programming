@@ -120,7 +120,7 @@ All of the following files are scripts and programs written in C.
 >>> * _Without using the variable_ `a` _in a new line of code_.
 >>> * _Without modifying the variable_ `p`.
 >>> * _Only writing one statement_.
->>> * _Without using `,`.
+>>> * _Without using_ `,`.
 >>> * _Without removing anything from the initial code (not even the comments)_.
 >>> * _Without using the standard library_.
 
