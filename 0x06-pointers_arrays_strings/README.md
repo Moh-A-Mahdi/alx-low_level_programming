@@ -142,7 +142,7 @@ All of the following files are scripts and programs written in C.
 
 ------------------
 
-> * [](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/)
+> * [104-print_buffer.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/104-print_buffer.c)
 >
 >> A function that prints a buffer followed by a new line.
 >>>
