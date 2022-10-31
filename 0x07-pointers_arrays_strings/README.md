@@ -12,7 +12,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 
 All of the following files are scripts and programs written in C.
 
-> * [main.h](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/main.h)
+> * [main.h](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/main.h)
 >
 >> Declaring the functions.
 ------------------
