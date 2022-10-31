@@ -98,4 +98,4 @@ All of the following files are scripts and programs written in C.
 >> A file that contains the password for the [`crackme2`](https://github.com/holbertonschool/0x06.c) executable.
 >>>
 >>> * _The file contain the exact password, no new line, no extra space_.
->>> * _You may need to install the_ `openssl` _library to run the_ `crakme2` _program_: `sudo apt install libssl-dev`.
+>>> * _You may need to install the_ `openssl` _library to run the_ [`crackme2`](https://github.com/holbertonschool/0x06.c) _program_: `sudo apt install libssl-dev`.
