@@ -4,7 +4,7 @@
 /*
  * File: main.h
  * Auth: Moh.A.Mahdi
- * Description: Header file containing the prototypes of all functions
+ * Desc: Header file containing the prototypes of all functions
  *       included in the static library libmy.a.
  */
 
@@ -29,4 +29,4 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-#endif /* _MAIN_H_ */
+#endif /* _MAIN_H */
