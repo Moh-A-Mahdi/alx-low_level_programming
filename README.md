@@ -23,6 +23,8 @@ Module of Low-level programming, carried out during Full Stack Software Engineer
 * [0x06 C - More pointers, arrays and strings](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 * [0x07 C - Even more pointers, arrays and strings](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
 * [0x08 C - Recursion](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x08-recursion)
+* [0x09 C - Static libraries](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x09-static_libraries)
+* [0x0A C - argc, argv](./0x0A-argc_argv/)
 
 ### Requirements
 
