@@ -3,7 +3,8 @@
 
 /*
  * File: main.h
- * Desc: Header file containing the prototypes
+ * Desc: Header file containing the prototypes of all functions
+ *       included in the static library libmy.a.
  */
 
 int _putchar(char c);
