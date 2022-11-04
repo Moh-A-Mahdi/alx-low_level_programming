@@ -45,4 +45,4 @@ All of the following files are scripts and programs written in C.
 
 * [create_static_lib.sh](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x09-static_libraries/create_static_lib.sh)
 >
->> A script called [`create_static_lib.sh`](./create_static_lib.sh) that creates a static library called `liball.a` from all the `.c` files that are in the current directory.  
+>> A script called [`create_static_lib.sh`](./create_static_lib.sh) that creates a static library called `liball.a` from all the `.c` files that are in the current directory.
