@@ -4,7 +4,7 @@
 /*
  * File: main.h
  * Auth: Moh.A.Mahdi
- * Desc: Header file containing the prototypes of all functions
+ * Description: Header file containing the prototypes of all functions
  *       included in the static library libmy.a.
  */
 
