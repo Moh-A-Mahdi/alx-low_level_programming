@@ -15,4 +15,3 @@ int _isupper(int d)
 
 	return (isUpper);
 }
-
