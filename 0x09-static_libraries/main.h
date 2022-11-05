@@ -2,10 +2,7 @@
 #define MAIN_H
 
 /*
- * File: main.h
- * Auth: Moh.a.Mahdi
  * Description: Header file containing the prototypes of all functions
- *       included in the static library libmy.a.
  */
 
 int _putchar(char c);
