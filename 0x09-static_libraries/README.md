@@ -19,7 +19,7 @@ All of the following files are scripts and programs written in C.
 * [libmy.a](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x09-static_libraries/libmy.a)
 >
 >> Creating the static library [`libmy.a`](./libmy.a) containing all the functions listed below:
-  
+
 * `int _putchar(char c);`
 * `int _islower(int c);`
 * `int _isalpha(int c);`
