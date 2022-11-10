@@ -56,13 +56,13 @@ All of the following files are scripts and programs written in C.
 
 ------------------
 
-> * [](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x0C-more_malloc_free/)
+> * [100-realloc.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x0C-more_malloc_free/100-realloc.c)
 >
 >> A function that reallocates a memory block using `malloc` and `free`.
 >>>
 >>> _Prototype:_ `void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);`.
 ------------------
 
-> * [](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x0C-more_malloc_free/)
+> * [101-mul.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x0C-more_malloc_free/101-mul.c)
 >
 >> A program that multiplies two positive numbers.
