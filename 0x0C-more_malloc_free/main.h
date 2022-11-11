@@ -2,8 +2,7 @@
 #define MAIN_H
 
 /**
- * Description: header file containing prototypes for all functions
- *       used in the 0x0B-more_malloc_free directory.
+ * File: MAIN.h
  */
 
 int _putchar(char c);
