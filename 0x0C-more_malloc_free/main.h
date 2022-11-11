@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- * Desc: Header file containing prototypes for all functions
+ * Description: header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
 
