@@ -1,8 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * File: MAIN.h
+/*
+ * Description: Header file containing the prototypes of all functions
  */
 
 int _putchar(char c);
