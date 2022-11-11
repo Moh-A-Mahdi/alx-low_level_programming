@@ -66,5 +66,3 @@ All of the following files are scripts and programs written in C.
 > * [101-mul.c](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x0C-more_malloc_free/101-mul.c)
 >
 >> A program that multiplies two positive numbers.
-
-
