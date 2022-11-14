@@ -1,1 +1,3 @@
-0x0D-preprocessor   
+# C - Preprocessor
+
+Project done during **Full Stack Software Engineering studies** at **ALX**.
