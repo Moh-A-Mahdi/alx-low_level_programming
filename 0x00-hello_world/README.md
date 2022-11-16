@@ -52,7 +52,7 @@ All of the following files are scripts and programs written in C.
 >> A C program that prints the size of various types on the computer it is compiled and run on.
 ------------------
 
-> * [100-intel](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x00-hello_world/100-inte)
+> * [100-intel](https://github.com/Moh-A-Mahdi/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)
 >
 >> A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 ------------------
