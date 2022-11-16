@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
-  * Description: main - Prints the numbers since 0 to 9
+  * Description: main - Prints the numbers from 0 to 9
   * Return: Always (Success)
   */
 
