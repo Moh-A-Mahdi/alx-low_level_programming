@@ -10,7 +10,7 @@
 int main(void)
 {
 
-write(1, "abcdefghijklmnopqrstuvwxyz\n",
+write(2, "abcdefghijklmnopqrstuvwxyz\n",
 sizeof("abcdefghijklmnopqrstuvwxyz"));
 
 }
