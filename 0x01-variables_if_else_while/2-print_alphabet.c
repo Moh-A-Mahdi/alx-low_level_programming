@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <unistd.h>
-
 
 /**
  * Description: main - Prints the alphabet in lowercase.
@@ -9,8 +7,10 @@
 
 int main(void)
 {
-
-write(2, "abcdefghijklmnopqrstuvwxyz\n",
-sizeof("abcdefghijklmnopqrstuvwxyz"));
+char letter;
+for (letter = 'a'; letter <= 'z'; letter++)
+putchar(letter);
+putchar('\n');
+return (0);
 
 }
