@@ -6,11 +6,7 @@
 
 int main(void)
 {
-char n;
-for (n = '0'; n <= '9'; n++)
-{
-putchar(n);
-}
-putchar('\n');
+write(1,"123456789\n",
+sizeof("123456789"));
 return (0);
 }
