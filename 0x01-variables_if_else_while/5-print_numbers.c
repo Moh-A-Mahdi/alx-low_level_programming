@@ -8,7 +8,7 @@
 
 int main(void)
 {
-write(1,"123456789\n",
-sizeof("123456789"));
+write(1, "0123456789\n",
+sizeof("0123456789"));
 return (0);
 }
