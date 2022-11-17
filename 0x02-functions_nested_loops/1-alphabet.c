@@ -8,7 +8,7 @@
 void print_alphabet(void)
 {
 
-write(1, "abcdefghijklmnopqrstuvwxyz\n", 
+write(1, "abcdefghijklmnopqrstuvwxyz\n",
 sizeof("abcdefghijklmnopqrstuvwxyz"));
 
 }
