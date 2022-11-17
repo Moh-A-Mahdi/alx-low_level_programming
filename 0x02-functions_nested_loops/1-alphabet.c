@@ -8,6 +8,7 @@
 void print_alphabet(void)
 {
 
-    write(1, "abcdefghijklmnopqrstuvwxyz\n", sizeof("abcdefghijklmnopqrstuvwxyz"));
+    write(1, "abcdefghijklmnopqrstuvwxyz\n", 
+    sizeof("abcdefghijklmnopqrstuvwxyz"));
 
 }
