@@ -1,8 +1,5 @@
-/*
- * File: 0-putchar.c
- */
-
 #include "main.h"
+#include <unistd.h>
 
 /**
  * main - Prints "_putchar" followed by a new line.
@@ -11,15 +8,8 @@
 
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+
+	write(1, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",sizeof("_putchar"));
 
 	return (0);
 }
