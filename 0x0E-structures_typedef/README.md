@@ -1,4 +1,4 @@
-# C - Structures, typedef
+# C - Variadic functions
 
 Project done during **Full Stack Software Engineering studies** at **ALX**.
 
