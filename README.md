@@ -29,7 +29,7 @@ Module of Low-level programming, carried out during Full Stack Software Engineer
 * [0x0C C - More malloc, free](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 * [0x0D C - Preprocessor](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0D-preprocessor)
 * [0x0E C - Structures, typedef](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0E-structures_typedef)
-* Progress so far  ![alt](https://geps.dev/progress/80)
+* Progress so far  ![alt](https://geps.dev/progress/75)
 
 ### Requirements
 
