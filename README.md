@@ -29,7 +29,10 @@ Module of Low-level programming, carried out during Full Stack Software Engineer
 * [0x0C C - More malloc, free](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 * [0x0D C - Preprocessor](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0D-preprocessor)
 * [0x0E C - Structures, typedef](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0E-structures_typedef)
-* Progress so far  ![alt](https://geps.dev/progress/75)
+* [0x0F C - Function pointers](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x0F-function_pointers)
+* [0x10 C - Variadic functions](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x10-variadic_functions)
+* [0x12 C - Singly linked lists](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
+* [0x13 C - More singly linked lists](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
 
 ### Requirements
 
