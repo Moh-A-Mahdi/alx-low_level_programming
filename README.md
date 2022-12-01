@@ -34,6 +34,7 @@ Module of Low-level programming, carried out during Full Stack Software Engineer
 * [0x11 C - printf](https://github.com/Eina-Alf/printf)
 * [0x12 C - Singly linked lists](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
 * [0x13 C - More singly linked lists](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
+* [0x14 C - Bit manipulation](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x14-bit_manipulation)
 
 ### Requirements
 
