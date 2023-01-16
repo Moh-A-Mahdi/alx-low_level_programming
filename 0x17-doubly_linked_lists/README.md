@@ -1,4 +1,4 @@
-# C -
+# C - Doubly linked lists
 
 ## Files
 
