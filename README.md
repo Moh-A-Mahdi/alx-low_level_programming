@@ -40,6 +40,7 @@ Module of Low-level programming, carried out during Full Stack Software Engineer
 * [0x18 C - Dynamic libraries](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x18-dynamic_libraries)
 * [0x19 C - Stacks, Queues - LIFO, FIFO](https://github.com/Moh-A-Mahdi/monty)
 * [0x1A C - Hash tables](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x1A-hash_tables)
+* [0x1C C - Makefiles](https://github.com/Moh-A-Mahdi/alx-low_level_programming/tree/master/0x1C-makefiles)
 
 ### Requirements
 
